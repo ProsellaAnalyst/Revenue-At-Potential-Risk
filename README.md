@@ -2,7 +2,7 @@
 
 > From seemingly strong growth to stagnant customers and over-reliance on a few heroes – an end-to-end analytics story using the Wide World Importers dataset.
 
-![Dashboard Preview](images/dashboard.png)
+
 
 ## Business Problem
 At first glance, Wide World Importers looked healthy: **$55.82M in sales**, **23K orders**, and consistent YoY growth.
