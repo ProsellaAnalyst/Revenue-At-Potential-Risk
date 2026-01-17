@@ -77,9 +77,15 @@ Leadership can execute these strategies now.
 
 ## Tools/Skills used
 SQL (cleaning)
+
 Power BI
+
 Power Query
+
 Data Modelling
+
 ETL
+
 Data Visualization
+
 Attention to Details
