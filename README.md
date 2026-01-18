@@ -73,7 +73,7 @@ These four high-impact decisions deliver immediate protection and long-term grow
 
 Leadership can execute these strategies now.
 
-
+**View Presentation:** https://gamma.app/docs/Revenue-At-Risk-724tnffzutm0ii4
 ## Tools/Skills used
 SQL (cleaning)
 
@@ -88,3 +88,5 @@ ETL
 Data Visualization
 
 Attention to Details
+
+
