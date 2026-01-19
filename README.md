@@ -64,12 +64,12 @@ These four high-impact decisions deliver immediate protection and long-term grow
    → Restores positive customer growth (ends 0% stagnation)  
 
 2. **Revive underperforming cities **  
-   → → Reduces geographic concentration risk
+    → Reduces geographic concentration risk
 
 3. **Optimize sales territories & rep performance**
 → Narrows productivity gaps and lifts average revenue per rep  
   
-4. **Stabilize monthly volatility now**  
+5. **Stabilize monthly volatility now**  
    → Fixes inventory, promotions, and coverage root causes for predictable revenue
 
 **Overall Impact**  
