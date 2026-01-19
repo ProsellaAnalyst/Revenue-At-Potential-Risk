@@ -3,6 +3,7 @@ Wide World Importers – Revenue Analysis using historical performance(2015)
 
 ## 1. The Project Overview & Dashboard
 This project analyzes historical sales performance for Wide World Importers to uncover hidden structural risks behind apparent revenue growth. While topline sales increased, deeper analysis reveals vulnerabilities that could threaten future revenue stability and scalability if left unaddressed.
+
 <img width="869" height="489" alt="image" src="https://github.com/user-attachments/assets/9627584e-6bf1-48ed-aeae-762ef2869bdf" />
 
 
@@ -45,7 +46,16 @@ Finance and sales leadership
 
   Without decisive action, the business risks turning strong historical performance into fragile future results.
 
-## 4. Big Idea + Approaches
+  ## 4. Why Revenue Concentration Is a Risk
+
+Focusing resources on top-performing categories, cities, and sales representatives can drive short-term growth. However, in this case, the analysis shows that revenue is **heavily concentrated** while **customer growth is weak and average order value is declining**.
+
+This creates **dependency risk**: revenue becomes overly reliant on a small number of segments and individuals. Any disruption — such as the loss of a key customer, city, or sales rep — could materially impact overall performance.
+
+The issue is not strategic focus itself, but **over-concentration without expansion**. Without broadening the customer base and stabilizing demand across regions, current growth becomes fragile and difficult to sustain long-term.
+
+
+## 5. Big Idea + Approaches
 
 **Big Idea**  
 Turn surface-level growth into clear, risk-aware decisions that protect revenue and enable sustainable expansion.
@@ -56,7 +66,7 @@ Turn surface-level growth into clear, risk-aware decisions that protect revenue 
 - Translate insights into clear, actionable leadership decisions
 - Focus on sustainability, not just short-term performance.
 - 
-## 5. Impact of Recommendations
+## 6. Impact of Recommendations
 
 These four high-impact decisions deliver immediate protection and long-term growth:
 
