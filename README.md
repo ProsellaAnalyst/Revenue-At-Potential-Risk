@@ -65,15 +65,15 @@ Turn surface-level growth into clear, risk-aware decisions that protect revenue 
 - Identify structural weaknesses hidden in aggregated metrics
 - Translate insights into clear, actionable leadership decisions
 - Focus on sustainability, not just short-term performance.
-- 
+
 ## 6. Impact of Recommendations
 
 These four high-impact decisions deliver immediate protection and long-term growth:
 
 1. **Accelerate customer acquisition**  
-   → Restores positive customer growth (ends 0% stagnation)  
+   → Restores positive customer growth (ends slow growth)  
 
-2. **Revive underperforming cities **  
+2. **Revive underperforming cities**  
     → Reduces geographic concentration risk
 
 3. **Optimize sales territories & rep performance**
