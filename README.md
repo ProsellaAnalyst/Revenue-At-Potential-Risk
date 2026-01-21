@@ -4,14 +4,15 @@ Wide World Importers – Revenue Analysis using historical performance(2015)
 ## 1. The Project Overview & Dashboard
 This project analyzes historical sales performance for Wide World Importers to uncover hidden structural risks behind apparent revenue growth. While topline sales increased, deeper analysis reveals vulnerabilities that could threaten future revenue stability and scalability if left unaddressed.
 
-<img width="869" height="489" alt="image" src="https://github.com/user-attachments/assets/9627584e-6bf1-48ed-aeae-762ef2869bdf" />
+<img width="870" height="487" alt="image" src="https://github.com/user-attachments/assets/4039c034-149b-47cc-a49d-688f0b090c20" />
+
 
 
 
 Key metrics at a glance for (2014–2015):  
 - Total Sales: $55.82M (+8% YoY)  
 - Total Orders: 23K (+10%)  
-- Customers: 657 (+2.7% growth)  
+- Customers: 657 (+3% growth)  
 - Avg Order Value: $2.39K (declining)  
 - Monthly volatility hidden under yearly gains  
 - Heavy concentration: Novelty Shops ~89%, few top cities/reps
